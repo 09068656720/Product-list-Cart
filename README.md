@@ -1,4 +1,4 @@
-Shopping Cart Application
+Product Cart Application
 Overview
 
 This is a responsive Shopping Cart Application built using HTML, CSS, and JavaScript. The application allows users to browse food products, add items to a shopping cart, adjust quantities, remove products, and confirm orders through a checkout modal.
